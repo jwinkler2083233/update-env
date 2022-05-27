@@ -8,4 +8,4 @@ Usage:
 `UpdateEnvironment.exe <process id> <exact variable name> <new value>`
   
   
-That's it.  This is a console program, and will return with a nonzero value in ERRORLEVEL if it didn't succeed for any reason.  It's written to run on 64-bit x86 chipsets.  I wrote this for the VS 2022 compiler, running Windows 10.
+That's it.  This is a console program, and will return with a nonzero value in ERRORLEVEL if it didn't succeed for any reason.  It's written to run on 64-bit x86 chipsets.  I wrote this for the VS 2022 compiler, running Windows 10.  That's how the first release was built.
